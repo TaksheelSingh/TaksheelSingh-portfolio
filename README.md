@@ -8,9 +8,6 @@ This repository contains my personal portfolio website built using HTML, JavaScr
 - Interactive elements with JavaScript
 - Sections for projects, about me, skills, and contact information
 
-## Screenshots
-Include screenshots or GIFs of your portfolio here to give viewers a preview of your work.
-
 ## Technologies Used
 - HTML
 - CSS
