@@ -14,7 +14,7 @@ This repository contains my personal portfolio website built using HTML, JavaScr
 - JavaScript
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/portfolio.git`
+1. Clone the repository: `git clone https://github.com/TaksheelSingh/TaksheelSingh-portfolio.git`
 2. Open `index.html` in your web browser.
 
 ## Usage
